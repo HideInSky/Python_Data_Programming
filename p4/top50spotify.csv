@@ -1,0 +1,51 @@
+id,artist_name,track_name,popularity,danceability,energy,duration_ms
+1,Olivia Rodrigo,drivers license,92,0.561,0.431,242013
+2,Lil Nas X,MONTERO (Call Me By Your Name),90,0.593,0.503,137704
+3,The Kid LAROI,STAY (with Justin Bieber),92,0.591,0.764,141806
+4,Olivia Rodrigo,good 4 u,95,0.563,0.664,178147
+5,Dua Lipa,Levitating (feat. DaBaby),89,0.702,0.825,203064
+6,Justin Bieber,Peaches (feat. Daniel Caesar & Giveon),90,0.677,0.696,198082
+7,Doja Cat,Kiss Me More (feat. SZA),88,0.764,0.705,208667
+8,The Weeknd,Blinding Lights,93,0.514,0.73,200040
+9,Glass Animals,Heat Waves,94,0.761,0.525,238805
+10,Måneskin,Beggin',93,0.714,0.8,211560
+11,Masked Wolf,Astronaut In The Ocean,77,0.778,0.695,132780
+12,Bad Bunny,DÁKITI,87,0.731,0.573,205090
+13,Lil Nas X,INDUSTRY BABY (feat. Jack Harlow),90,0.741,0.691,212353
+14,Ed Sheeran,Bad Habits,95,0.807,0.893,230747
+15,The Weeknd,Save Your Tears,90,0.68,0.826,215627
+16,BTS,Butter,71,0.759,0.459,164442
+17,Bruno Mars,Leave The Door Open,86,0.586,0.616,242096
+18,Olivia Rodrigo,deja vu,90,0.442,0.612,215507
+19,Rauw Alejandro,Todo De Ti,69,0.78,0.719,199604
+20,24kGoldn,Mood (feat. iann dior),89,0.701,0.716,140533
+21,Tiësto,The Business,88,0.798,0.62,164000
+22,BTS,Dynamite,67,0.746,0.765,199054
+23,Bad Bunny,Yonaguni,94,0.644,0.648,206710
+24,Harry Styles,Watermelon Sugar,90,0.548,0.816,174000
+25,Riton,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,88,0.824,0.862,169153
+26,Kali Uchis,telepatía,87,0.653,0.524,160191
+27,The Kid LAROI,WITHOUT YOU,85,0.662,0.413,161385
+28,Giveon,Heartbreak Anniversary,86,0.449,0.465,198371
+29,Olivia Rodrigo,traitor,92,0.38,0.339,229227
+30,Farruko,Pepas,86,0.762,0.766,287120
+31,Ariana Grande,positions,88,0.737,0.802,172325
+32,Lewis Capaldi,Someone You Loved,88,0.501,0.405,182161
+33,Myke Towers,Bandido,82,0.713,0.617,232853
+34,Måneskin,I WANNA BE YOUR SLAVE,88,0.75,0.608,173347
+35,Polo G,RAPSTAR,82,0.789,0.536,165926
+36,Bad Bunny,LA NOCHE DE ANOCHE,87,0.856,0.618,203201
+37,Doja Cat,Streets,87,0.749,0.463,226987
+38,The Neighbourhood,Sweater Weather,92,0.612,0.807,240400
+39,Los Legendarios,Fiel,82,0.849,0.701,261667
+40,Doja Cat,Need to Know,93,0.664,0.609,210560
+41,Dua Lipa,Don't Start Now,84,0.793,0.793,183290
+42,Internet Money,Lemonade (feat. Gunna Don Toliver & NAV),81,0.8,0.658,195429
+43,Doja Cat,Woman,95,0.824,0.764,172627
+44,Duncan Laurence,Arcade,78,0.453,0.35,185147
+45,SZA,Good Days,86,0.436,0.655,279204
+46,J Balvin,Qué Más Pues?,79,0.903,0.817,217360
+47,Joel Corry,Head & Heart (feat. MNEK),86,0.734,0.874,166028
+48,Ariana Grande,34+35,85,0.83,0.585,173711
+49,Tate McRae,you broke me first,88,0.667,0.373,169266
+50,Sebastian Yatra,Pareja Del Año,86,0.715,0.622,195053
